@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sancharibht
+- 👋 Hi, I’m Sanchari
 - 👀 I’m interested in data science and analytics and coding interesting stuff
 - 🌱 I’m currently learning new machine learning techniques
 - 💞️ I’m looking to collaborate on data science projects
