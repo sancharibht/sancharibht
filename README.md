@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sanchari
-- 👀 I’m interested in data science and analytics and coding interesting stuff
-- 🌱 I’m currently learning new machine learning techniques
+- 👋 Hi, I’m Sanchari Bhattacharjee
+- 👀 I’m interested in deriving insights from data and transforming them into strategic business decisions that drive growth and innovation.
+- 🌱 I’m currently learning machine learning. 
 - 💞️ I’m looking to collaborate on data science projects
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love ice-cream.
